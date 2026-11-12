@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Player Hub Capture",
+    "slug": "player-hub-capture",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "backgroundColor": "#000000",
+    "plugins": ["expo-video"],
+    "android": {
+      "package": "com.jamtechnologies.playerhubcapture",
+      "versionCode": 1
+    }
+  }
+}
